@@ -2,7 +2,7 @@
 
 #define TRIG_PIN 9
 #define ECHO_PIN 10
-#define NEOPIXEL_PIN 12
+#define NEOPIXEL_PIN 11
 #define NUMPIXELS 3
 
 Adafruit_NeoPixel pixels(NUMPIXELS, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);
